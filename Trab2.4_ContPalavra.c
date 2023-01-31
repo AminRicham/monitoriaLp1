@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 /*
-scanf so grava ate o espaço por isso do gets
+scanf so grava ate o espaÃ§o por isso do gets
 o strtok ele divide a string nos pontos em que marcamos(Limitadores)
-Ele começa no inicio ate o primeiro limitador, depois vai desse limitador ate o proximo
+Ele comeÃ§a no inicio ate o primeiro limitador, depois vai desse limitador ate o proximo
 
 Aqui a gente comeca inserindo a frase em um vetor de char, definimos os limitadores  e criamos um contador
 para cada vez que o strtok funcionar
